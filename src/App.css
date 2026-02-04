@@ -1,0 +1,52 @@
+.container {
+  padding: 40px;
+  text-align: center;
+  width: 100%;
+}
+
+h3 {
+  font-size: 30px;
+  margin-bottom: 10px;
+}
+
+.page {
+  padding: 60px 10%;
+}
+
+.title {
+  font-size: 40px;
+  text-align: center;
+  margin-bottom: 20px;
+  font-weight: bold;
+  font-size: 80px;
+}
+
+.card-skills {
+  font-size: 100px;
+  background: white;
+  padding: 15px;
+  border-radius: 15px;
+  box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+.card-skills h3 {
+  margin: 0;
+}
+
+.card {
+  font-size: 50px;
+  background: white;
+  padding: 30px;
+  border-radius: 12px;
+  box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+.flex {
+  display: flex;
+  gap: 30px;
+  flex-wrap: wrap;
+}
+
+.center {
+  text-align: center;
+}
